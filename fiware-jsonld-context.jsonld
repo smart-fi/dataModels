@@ -1,6 +1,15 @@
-"@context": {
-    "fiware": "http://fiware.org",
-    "AirQualityObserved": { "@id": "fiware:AirQualityObserved" },
-    "dateObserved": { "@id": "fiware:dateObserved", "@type": "DateTime" },
-    "NO2": { "@id": "fiware:NO2" }
+{
+	"@context": {
+		"fiware": "http://fiware.org",
+		"AirQualityObserved": {
+			"@id": "fiware:AirQualityObserved"
+		},
+		"dateObserved": {
+			"@id": "fiware:dateObserved",
+			"@type": "DateTime"
+		},
+		"NO2": {
+			"@id": "fiware:NO2"
+		}
+	}
 }
