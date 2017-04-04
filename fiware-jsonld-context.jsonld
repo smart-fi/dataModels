@@ -1,6 +1,6 @@
 {
 	"@context": {
-		"fiware": "http://fiware.org",
+		"fiware": "http://fiware.org/",
 		"AirQualityObserved": {
 			"@id": "fiware:AirQualityObserved"
 		},
