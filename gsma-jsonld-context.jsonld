@@ -1,0 +1,15 @@
+{
+	"@context": {
+		"gsma": "http://gsma.com/connectedliving/iot-big-data/",
+		"AirQualityObserved": {
+			"@id": "gsma:AirQualityObserved"
+		},
+		"dateObserved": {
+			"@id": "gsma:dateObserved",
+			"@type": "DateTime"
+		},
+		"NO2": {
+			"@id": "gsma:NO2"
+		}
+	}
+}
