@@ -9,6 +9,10 @@
 			"@id": "gsma:dateObserved",
 			"@type": "schema:DateTime"
 		},
+		"unitCode": {
+		  "@id": "schema:unitCode",
+		  "@type": "schema:Text"
+		},
 		"NO2": {
 			"@id": "gsma:NO2"
 		}
