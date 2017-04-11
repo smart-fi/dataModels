@@ -15,9 +15,6 @@
 		},
 		"NO2": {
 			"@id": "gsma:NO2"
-		},
-		"areaServed" {
-		  "@type": "@id"
 		}
 	}
 }
