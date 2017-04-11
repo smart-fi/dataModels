@@ -2,6 +2,7 @@
 	"@context": {
 		"gsma": "http://gsma.com/connectedliving/iot-big-data/",
 		"schema": "http://schema.org/",
+		"@vocab": "http://schema.org/",
 		"AirQualityObserved": {
 			"@id": "gsma:AirQualityObserved"
 		},
@@ -10,14 +11,12 @@
 			"@type": "schema:DateTime"
 		},
 		"unitCode": {
-		  "@id": "schema:unitCode",
-		  "@type": "schema:Text"
+		  "@type": "Text"
 		},
 		"NO2": {
 			"@id": "gsma:NO2"
 		},
 		"areaServed" {
-		  "@id": "schema:areaServed",
 		  "@type": "@id"
 		}
 	}
