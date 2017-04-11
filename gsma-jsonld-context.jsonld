@@ -1,7 +1,7 @@
 {
 	"@context": {
 		"gsma": "http://gsma.com/connectedliving/iot-big-data/",
-		"schema": "http://schema.org",
+		"schema": "http://schema.org/",
 		"AirQualityObserved": {
 			"@id": "gsma:AirQualityObserved"
 		},
