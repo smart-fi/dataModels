@@ -7,11 +7,10 @@
 		},
 		"dateObserved": {
 			"@id": "gsma:dateObserved",
-			"@type": "DateTime"
+			"@type": "schema:DateTime"
 		},
 		"NO2": {
-			"@id": "gsma:NO2",
-			"@type": "schema:QuantitativeValue"
+			"@id": "gsma:NO2"
 		}
 	}
 }
