@@ -1,0 +1,20 @@
+{
+  "id": "PointOfInterest-64933",
+  "type": "PointOfInterest",
+  "name": "ÇİÇEK TİCARET",
+  "description": "Birbirinden farklı ve çeşit dolu bakır süs ve mutfak eşyalarının bulundu",
+  "address": {
+    "addressCountry": "TR",
+    "addressLocality": "Dabakhane Mahallesi, Yeni Boztepe  7 A, Malatya Merkez/Malatya"
+  },
+  "category": [ "178" ],
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      38.3506807929027,
+      38.3166412407296
+    ]
+  },
+  "source": "Malatya Metropolitan Municipality",
+  "refSeeAlso": [ "" ]
+}
