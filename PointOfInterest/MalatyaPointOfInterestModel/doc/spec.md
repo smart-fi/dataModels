@@ -6,7 +6,7 @@ This entity contains a harmonised geographic description of a Point of Interest 
 
 ## Data Model
 
-A JSON Schema corresponding to this data model can be found [here](http://fiware.github.io/dataModels/PointOfInterest/PointOfInterest/MalatyaPointOfInterestModel/schema.json)
+A JSON Schema corresponding to this data model can be found [here](http://github.com/smart-fi/dataModels/blob/master/PointOfInterest/MalatyaPointOfInterestModel/schema.json)
 
 + `id` : Unique identifier. 
 
